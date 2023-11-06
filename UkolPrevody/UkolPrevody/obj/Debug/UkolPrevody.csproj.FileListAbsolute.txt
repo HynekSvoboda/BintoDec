@@ -1,0 +1,10 @@
+G:\prg\UkolPrevody\UkolPrevody\bin\Debug\UkolPrevody.exe.config
+G:\prg\UkolPrevody\UkolPrevody\bin\Debug\UkolPrevody.exe
+G:\prg\UkolPrevody\UkolPrevody\bin\Debug\UkolPrevody.pdb
+G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.AssemblyReference.cache
+G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.Form1.resources
+G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.Properties.Resources.resources
+G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.GenerateResource.cache
+G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.CoreCompileInputs.cache
+G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.exe
+G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.pdb
