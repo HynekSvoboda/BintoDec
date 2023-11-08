@@ -8,3 +8,13 @@ G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.GenerateResource.cac
 G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.CoreCompileInputs.cache
 G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.exe
 G:\prg\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.pdb
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\bin\Debug\UkolPrevody.exe.config
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\bin\Debug\UkolPrevody.exe
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\bin\Debug\UkolPrevody.pdb
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.AssemblyReference.cache
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.Form1.resources
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.Properties.Resources.resources
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.GenerateResource.cache
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.csproj.CoreCompileInputs.cache
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.exe
+C:\Users\hynko\Source\Repos\BintoDec\UkolPrevody\UkolPrevody\obj\Debug\UkolPrevody.pdb
